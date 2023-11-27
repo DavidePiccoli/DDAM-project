@@ -25,3 +25,4 @@ ESKETIT
 - OPTIONAL
 - Creare delle profilazioni (in base al cluster) dei giocaTori ed eseguire la classificazione. 
 - Capire se un giocatore è IsStarter in base alle statistiche di ogni giocatore (togliendo minuti giocati).
+- Regressione su altezza e peso dei giocatori
