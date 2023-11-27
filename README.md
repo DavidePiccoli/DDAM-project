@@ -10,7 +10,11 @@ Alla fine abbiamo preso i dati solo da Boxscore. Salary non è stato utilizzato 
 - pulire colonna MP in Boxscore
 - eliminare notes startET, datetime, isregular, attendance in games.
 
-- Abbiamo visto che tutti i valori nel dataset unito (dopo il join) sono stringhe (tralasciando game_id, Is_starter, seasonstartyear, is_regular). Abbiamo quindi convertito i valori convertibili in int, tranne il tempo in float. Ci siamo resi conto che i minuti < 10 sono preceduti da uno spazio. Si è optato per convertire tutto in secondi. 
+- Abbiamo visto che tutti i valori nel dataset unito (dopo il join) sono stringhe (tralasciando game_id, Is_starter, seasonstartyear, is_regular). Abbiamo quindi convertito i valori convertibili in int, tranne il tempo in float. Ci siamo resi conto che i minuti < 10 sono preceduti da uno spazio. Si è optato per convertire tutto in secondi.
+
+TO DO:
+- rimuovere missing values NULL
+- 
 
 ESKETIT
 
