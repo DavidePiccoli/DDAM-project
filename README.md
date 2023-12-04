@@ -3,7 +3,7 @@
 link:
 https://www.kaggle.com/datasets/patrickhallila1994/nba-data-from-basketball-reference
 
-Alla fine abbiamo preso i dati solo da Boxscore. Salary non è stato utilizzato e games viene usato solo per season start year e gameid
+Alla fine abbiamo preso i dati solo da Boxscore. Salary non è stato utilizzato e games viene usato solo per season start year e gameid.
 
 
 - Prendiamo dati maggiori anno 2000 e minori 2010 causa lockout nel 2011 (quindi il concetto è prende il periodo in cui i punti segnati sono costanti)
